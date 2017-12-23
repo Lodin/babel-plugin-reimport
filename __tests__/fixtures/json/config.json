@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["../../../index.js", {
+      "some-library": {
+        "transform": "./__tests__/fixtures/json/transform.js"
+      }
+    }]
+  ]
+}
